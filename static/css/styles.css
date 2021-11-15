@@ -1,0 +1,24 @@
+a{
+  background-color: #39ace7;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  border-radius: 25px;
+ 
+}
+
+.home_login,.home_register{
+  display:inline-block;
+  width:10%;
+ }  
+ .center{
+
+  /* margin: auto;
+  width: auto;
+  padding: 20px; */
+  position:relative;
+  text-align:center;
+}
