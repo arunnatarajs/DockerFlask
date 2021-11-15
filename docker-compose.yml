@@ -1,8 +1,0 @@
-version: "20.10.10"
-services:
-  app:
-    build: .
-    command: python app.py
-    ports:
-      - "5000:5000"
-       
